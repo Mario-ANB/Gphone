@@ -1,0 +1,94 @@
+.contac{
+    margin: 160px;
+    margin-top: 10px;
+    }
+.foto{
+        border-radius: 50%;
+        width: 100px;
+        height: 100px;
+}
+#menu{
+    background-color: #000;
+    margin: -10px;
+
+}
+
+#menu ul{
+    list-style: none;
+    margin: 10px;
+    padding: 0px;
+}
+
+#menu ul li{
+    
+    display: inline-block;
+}
+
+#menu ul li a{
+font-family:"impact";
+color: white;
+display: block;
+padding: 20px 20px;
+text-decoration: none;
+}
+#menu ul li a:hover{
+background-color: #28282A;
+}
+
+.item-r{
+float: right;
+}
+.form-regist{
+width: 500px;
+padding: 45px;
+margin: auto;
+margin-top: -80px;
+margin-left: 20px;
+font-family:'Calibri ligth';
+color:#000;
+}
+.controles{
+width: 120%;
+background:#FFFF;
+padding: 7px;
+border-radius: 4px;
+margin-bottom: 16px;
+border: 1px solid #000;
+font-family: 'calibri ligth';
+font-size: 18px;
+color:#000;
+}
+.botons{
+width: 24%;
+}
+.contac{
+margin: 160px;
+margin-top: 10px;
+}
+.foto{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.form-register {
+    width: 500px;
+    padding: 45px;
+    margin: auto;
+    background:#ECEFF9;
+    margin-top: 10px;
+    margin-left: 20px;
+    font-family:'Calibri ligth';
+    color:#000;
+    }
+    .controls {
+    width: 100%;
+    background:#FFFF;
+    padding: 8px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #000;
+    font-family: 'calibri';
+    font-size: 18px;
+    color:#000;
+    }

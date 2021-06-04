@@ -1,0 +1,23 @@
+.form-regist{
+    width: 500px;
+    padding: 45px;
+    margin: auto;
+    margin-top: -80px;
+    margin-left: 20px;
+    font-family:'Calibri ligth';
+    color:#000;
+}
+.controles{
+width: 120%;
+background:#FFFF;
+padding: 7px;
+border-radius: 4px;
+margin-bottom: 16px;
+border: 1px solid #000;
+font-family: 'calibri ligth';
+font-size: 18px;
+color:#000;
+}
+.botons{
+    width: 24%;
+}
